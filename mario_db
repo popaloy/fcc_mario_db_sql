@@ -1,0 +1,4 @@
+SQL exercise to create and manipulate a database and tables in the db.
+
+Log in for db: psql --username=freecodecamp --dbname=postgres
+    
